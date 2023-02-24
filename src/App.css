@@ -1,0 +1,15 @@
+.card{
+  padding: 2rem;
+  border: 1px solid white;
+  display: flex;
+}
+.grid{
+  max-width: 120rem;
+  display: grid;
+  grid-template-columns: 0.5fr 0.5fr 0.5fr;
+  gap: 1.6rem;
+}
+.search{
+  text-align: center;
+  
+}
